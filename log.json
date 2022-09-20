@@ -1,0 +1,23 @@
+{
+    "update_id": 593087498,
+    "message": {
+        "message_id": 5778,
+        "from": {
+            "id": 679143250,
+            "is_bot": false,
+            "first_name": "Infomir",
+            "last_name": "Worker",
+            "username": "infomir_working",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 679143250,
+            "first_name": "Infomir",
+            "last_name": "Worker",
+            "username": "infomir_working",
+            "type": "private"
+        },
+        "date": 1663647767,
+        "text": "bosh sahifa"
+    }
+}
